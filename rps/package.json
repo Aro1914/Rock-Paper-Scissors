@@ -1,0 +1,29 @@
+{
+  "name": "rps",
+  "version": "0.0.1",
+  "description": "Rock, Paper, Scissors game built with Reach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aro1914/Rock-Paper-Scissors-with-Reach.git"
+  },
+  "keywords": [
+    "Reach",
+    "Web3",
+    "Smart-Contract",
+    "Game",
+    "React"
+  ],
+  "author": "Emmanuel Agbavwe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aro1914/Rock-Paper-Scissors-with-Reach/issues"
+  },
+  "homepage": "https://github.com/Aro1914/Rock-Paper-Scissors-with-Reach#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
