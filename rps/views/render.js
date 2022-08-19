@@ -4,7 +4,7 @@ import React from 'react';
 export function renderDOM(app) {
   ReactDOM.render(
     <React.StrictMode>{app}</React.StrictMode>,
-    document.getElementById('root')
+    document.getElementById('root') 
   );
 }
 
